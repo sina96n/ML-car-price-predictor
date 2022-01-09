@@ -1,2 +1,2 @@
 # Car-Price_predictor-ML
-a Machine Learning repository for predicting used car's prices.
+Machine Learning repository for predicting used car's prices from truecar website.
