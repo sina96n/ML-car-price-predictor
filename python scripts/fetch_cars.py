@@ -60,3 +60,8 @@ def scraper(url):
 with open("cars.csv", "w") as cars:
     csvwriter = csv.writer(cars)
     csvwriter.writerows(car_list)
+
+
+
+# By Sina Kazemi
+# Github : https://github.com/sina96n/

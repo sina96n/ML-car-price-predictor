@@ -24,3 +24,6 @@ cars.to_csv(
     "cleaned_data.csv", 
     index=False
 )
+
+# By Sina Kazemi
+# Github : https://github.com/sina96n/

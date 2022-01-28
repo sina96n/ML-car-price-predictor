@@ -41,3 +41,8 @@ def url_scraper():
             for url in url_list:
                 urls.append(url)
                 f.write(url+"\n")
+
+
+
+# By Sina Kazemi
+# Github : https://github.com/sina96n/
