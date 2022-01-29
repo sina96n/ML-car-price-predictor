@@ -1,4 +1,4 @@
-# Car-Price_predictor-ML
+# Car Price predictor - Machine learning repository
 Machine Learning repository for predicting used cars prices from truecar website.
 > data scraping date : 12/23/2021
 
